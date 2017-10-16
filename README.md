@@ -17,4 +17,5 @@
 ### ![](https://github.com/frayds/3D_openGL_AnimationModel/raw/master/demo_pictures/presentation.gif)
 ## Contributors 参与者介绍
 濮一帆:advanced Computer Science, Department of Computer Science, University of Sheffield
+
 Dr Steve Maddock:3D Computer Graphics 的授课老师,老师的相关信息可以前往-- [他的网站](http://staffwww.dcs.shef.ac.uk/people/S.Maddock/index.shtml)。
